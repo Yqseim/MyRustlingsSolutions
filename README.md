@@ -1,2 +1,1 @@
-# MyRustlingsSolutions
-My solutions to https://github.com/rust-lang/rustlings/
+My solutions to rustlings exercises (https://github.com/rust-lang/rustlings)
