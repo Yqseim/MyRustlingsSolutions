@@ -15,8 +15,6 @@ pub fn fizz_if_foo(fizzish: &str) -> &str {
     else {
 "baz"
     }
-        
-    
 }
 
 // No test changes needed!
