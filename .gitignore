@@ -6,5 +6,6 @@ info.toml*
 install*
 LICENSE*
 target*
-tests*
+tests/fixture/*
+tests/integration_tests.rs
 src*
